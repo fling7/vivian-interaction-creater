@@ -4,5 +4,5 @@ BASE_URL = None  # Optional, z.B. Proxy: "https://api.openai.com/v1"
 MODEL = "gpt-4o-2024-08-06"
 
 # Input/Output – ohne Kommandozeilen-Konfig
-SPEC_PATH = "project/specs/cube_touch_red.yml"
+SPEC_PATH = "project/specs/unity_generated.yml"
 OUT_DIR = "build/FunctionalSpecification"
